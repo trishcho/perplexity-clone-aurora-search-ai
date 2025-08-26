@@ -3,6 +3,8 @@
 A modern, responsive AI chat interface with integrated web search functionality.  
 Aurora Search provides a clean UI inspired by Perplexity.ai, combining conversational AI with real-time search capabilities.
 
+<img width="1512" height="764" alt="Image" src="https://github.com/user-attachments/assets/6edef2e7-5341-449c-956d-34f80bb5653c" />
+
 ## ✨ Features
 
 - **Real-time AI Responses** - Stream AI responses as they're generated  
